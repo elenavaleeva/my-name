@@ -1,7 +1,9 @@
 body {
     display: flex;
 flex-direction: 0 0 1;
-background-image: url("./tanner-van-dera-oaQ2mTeaP7o-unsplash.jpg")
+background-image: url("./tanner-van-dera-oaQ2mTeaP7o-unsplash.jpg");
+background-size: cover;
+background-position: center;
 }
 
 h1 {
