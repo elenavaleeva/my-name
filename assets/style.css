@@ -1,36 +1,19 @@
-*{
-   
-  font-size: large;  
-  background-image: url("./icegif-526.gif")
-
-}
-
-header {
+body {
     display: flex;
-    display: inline;
-    width: 50px;
-    height: 60px;
-    color: rgb(233, 24, 76);
-    font-size: 100px;
-    float: top;
-margin-bottom: 500px;
-
+flex-direction: 0 0 1;
+background-image: url("./tanner-van-dera-oaQ2mTeaP7o-unsplash.jpg")
 }
 
-h1 { 
-    display: flex;
-    display: inline;
-    width: 50px;
-    height: 60px;
-    color: rgb(233, 24, 76);
-    font-size: 100px;
-    float: center;
-margin: auto;
-}
+h1 {
+ display: flex;
+color: black;
+text-shadow: 10px;
+text-shadow: gray;
+ }
 
  h2 { 
     display: flex;
-    display: inline-table;
+    display:inline-table;
     width: 50px;
     height: 60px;
     color: rgb(233, 24, 76);
